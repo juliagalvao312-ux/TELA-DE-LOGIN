@@ -1,0 +1,24 @@
+*{
+    background-color: plum; /*altera o fundo da tela*/
+}
+
+
+body {
+   display: flex; /*flexivel*/ 
+   justify-content: center; /*alinha no centro*/
+   align-items: center;
+   min-height: 100vh;/*altura*/
+
+}
+
+form{
+    padding: 40px; /*espaçamento interno*/
+}
+
+
+h1{
+    text-align: center;
+    border: 1px solid;
+    border-radius: 40px;
+    width: 200px;
+}
